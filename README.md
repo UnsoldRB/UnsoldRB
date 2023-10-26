@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![RiceBall's GitHub Banner](./profile.png)]()
 
-![](https://img.shields.io/badge/C++-1572B6?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/C#-1572B6?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Java-1572B6?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/C++-1572B6?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/C＃-1572B6?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Java-1572B6?style=flat&logo=html5&logoColor=white)
