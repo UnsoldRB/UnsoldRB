@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![RiceBall's GitHub Banner](./profile.png)]()
 
-![](https://img.shields.io/badge/C++-1572B6?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/C＃-512BD4?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/Java-1572B6?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/C＃-512BD4?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=coffeescript&logoColor=white)
+![](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=white) ![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white) ![](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
