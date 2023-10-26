@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![RiceBall's GitHub Banner](./profile.png)]()
+
+![](https://img.shields.io/badge/C++) ![](https://img.shields.io/badge/C#) ![](https://img.shields.io/badge/Java)
