@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![RiceBall's GitHub Banner](./assets/profile.png)]()
+[![RiceBall's GitHub Banner](./profile.png)]()
